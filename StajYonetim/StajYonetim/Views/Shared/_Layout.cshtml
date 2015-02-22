@@ -1,0 +1,56 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/CSS/Style.css" rel="stylesheet" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+</head>
+<body>
+    <div id="container">
+<header>ALTAY MESLEKİ VE TEKNİK ANADOLU LİSESİ <p></p>STAJ YÖNETİM SİSTEMİ</header>
+      
+        <nav>
+            <a href="/">
+                <div class="nav_item first">
+                    <span>Anasayfa</span>
+                </div>
+            </a>
+            <div class="nav_item">
+            <span>Okul Girişi</span>
+            </div>
+            <div class="nav_item">
+            <span>Öğrenci Girişi</span>
+            </div>
+            <div class="nav_item">
+            <span>Öğretmen Girişi</span>
+            </div>
+            <div class="nav_item">
+            <span>İşletme Girişi</span>
+            </div>
+            <div class="nav_item">
+            <span>Belgeler</span>
+            </div>
+            <a href="/iletisim/">
+            <div class="nav_item last">
+            <span>İletişim</span>
+            </div></a>
+        </nav>
+        <div id="main">
+            <div id="left">
+                <div id="login">KULLANICI GİRİŞİ</div>
+                <div id="news">DUYURULAR</div>
+            </div>
+            <div id="content">
+@RenderBody()
+            </div>
+        </div>
+<footer><small> &copy; Sultan YILDIZ DEMİR | Tüm hakkı saklıdır. </small></footer>
+    </div>
+
+       
+</body>
+</html>

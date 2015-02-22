@@ -1,0 +1,38 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/CSS/Style.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="container">
+<div id="header">ALTAY MESLEKİ VE TEKNİK ANADOLU LİSESİ <p></p>STAJ YÖNETİM SİSTEMİ</div>
+      
+            <div id="nav">
+                <div class="nav_item">Anasayfa</div>
+                <div class="nav_item">Okul Girişi</div>
+                <div class="nav_item">Öğrenci Girişi</div>
+                <div class="nav_item">Öğretmen Girişi</div>
+                <div class="nav_item">İşletme Girişi</div>
+                <div class="nav_item">Belgeler</div>
+                <div class="nav_item">İletişim</div>
+            </div>
+        <div id="main">
+            <div id="left">
+                <div id="login">KULLANICI GİRİŞİ</div>
+                <div id="news">DUYURULAR</div>
+            </div>
+            <div id="content">
+@RenderBody()
+            </div>
+        </div>
+<div id="footer">2015 &copy; Sultan YILDIZ DEMİR | Tüm hakkı saklıdır. </div>
+    </div>
+
+       
+</body>
+</html>

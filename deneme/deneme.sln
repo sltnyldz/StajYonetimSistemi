@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deneme", "deneme\deneme.csproj", "{7BB7F96B-7925-47A4-80AC-FB1D4FDEE94C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deneme.Tests", "deneme.Tests\deneme.Tests.csproj", "{2AE0A342-5331-418C-87E0-B607C59CFA62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB7F96B-7925-47A4-80AC-FB1D4FDEE94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB7F96B-7925-47A4-80AC-FB1D4FDEE94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB7F96B-7925-47A4-80AC-FB1D4FDEE94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB7F96B-7925-47A4-80AC-FB1D4FDEE94C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AE0A342-5331-418C-87E0-B607C59CFA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE0A342-5331-418C-87E0-B607C59CFA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE0A342-5331-418C-87E0-B607C59CFA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE0A342-5331-418C-87E0-B607C59CFA62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

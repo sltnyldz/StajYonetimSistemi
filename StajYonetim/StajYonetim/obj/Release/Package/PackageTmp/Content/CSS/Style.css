@@ -1,0 +1,115 @@
+﻿@import url(normalize.css);
+
+body 
+{
+         font-family: Arial, Verdana,sans-serif;
+         font-size:14px;
+         overflow-y:scroll;
+}
+
+#container{
+    width:960px;
+    position:relative;
+    margin:auto;
+}
+
+#header{
+    width:935px;
+    height:60px;
+    position:relative;
+    margin-bottom:10px;
+    margin-top:10px;
+    font-weight:bold;
+    letter-spacing:5px;
+    text-align:right;
+}
+
+#nav{
+    width:960px;
+    height:38px;
+    line-height:30px;
+    text-align:center;
+    position:relative;
+    color:white;
+    margin-bottom:10px;
+
+ 
+}
+
+.nav_item{
+    width:131px;
+    height:38px;
+    position:relative;
+    float:left;
+    border:2px solid #3399FF;
+    border-left:0;
+    background:#0066CC;
+    color:white;
+
+}
+
+#main{
+     width:935px;
+    height:420px;
+    position:relative;
+    background:white;
+}
+
+#left{
+    margin-top:5px;
+    width:240px;
+    height:400px;
+    float:left; 
+    margin-right:5px;
+}
+
+#login {
+    width:240px;
+    height:200px;
+    background:white;
+    position:relative;
+    margin-bottom:5px;
+    margin-left:5px;
+    border:2px solid royalblue;
+    border-right:0px;
+    color:black;
+}
+
+#news{
+    width:240px;
+    height:200px;
+    background:white;
+    position:relative;
+    margin-left:5px;
+    border:2px solid royalblue;
+    border-left:0px;
+}
+
+#content{
+    margin-top:5px;
+    margin-right:5px;
+    width:680px;
+    height:405px;
+    position:relative;
+    text-align:justify;
+    background:white;
+    float:right;
+    border-top:2px solid royalblue;
+    border-bottom:2px solid royalblue;
+
+
+}
+
+#footer{
+   margin-top:10px;
+     width:935px;
+    height:40px;
+    line-height:40px;
+    text-align:center;
+    position:relative;
+    color:white;
+    background:#0066CC;
+    font-family: Arial, Verdana,sans-serif;
+    font-size:12px;
+    
+}

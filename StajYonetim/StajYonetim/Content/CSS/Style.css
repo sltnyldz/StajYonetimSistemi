@@ -1,0 +1,148 @@
+﻿@import url(normalize.css);
+
+body 
+{
+         font-family: Open Sans, sans-serif;
+         font-size:12px;
+         overflow-y:scroll;
+}
+
+a {
+text-decoration:none;
+color:white;
+}
+
+#container{
+    width:960px;
+    position:relative;
+    margin:auto;
+}
+
+header{
+    width:935px;
+    height:60px;
+    position:relative;
+    font-weight:bold;
+    letter-spacing:5px;
+    transition:opacity .3s ease-in-out; /*şeffaflığa geçiş efekti*/
+    cursor:pointer;
+    margin:20px;
+    line-height:20px;
+    font-size:24px;
+    
+}
+
+    #header:hover 
+    {
+        opacity:.7; /*seffaflık %30 azalacak */
+        text-shadow:0 0 5px black;
+    }
+
+
+nav{
+    width:935px;
+    height:40px;
+    line-height:40px;
+    text-align:center;
+    position:relative;
+    margin:15px 0;
+    box-shadow:0 0 4px #555252;
+    border-radius:0 12px;
+    background:white;
+    cursor:pointer;
+
+ 
+}
+
+.nav_item{
+    width:131px;
+    height:40px;
+    position:relative;
+    float:left;
+    border-right:2px solid #bdbaba;
+    background:#7d7d7d;
+    color:white;
+    transition:all .3s ease-in-out
+}
+
+.first {
+    border-radius:0 0 0 12px;
+    width:134px;
+}
+
+.last{
+    border-radius:0 12px 0 0;
+    border:0;
+    width:134px;
+}
+
+.nav_item:hover {
+    box-shadow:0 0 20px black inset;
+}
+
+#main{
+    width:935px;
+    height:440px;
+    background:white;
+    padding:5px;
+}
+
+#left{
+
+    width:240px;
+    height:400px;
+    float:left; 
+ 
+}
+
+#login {
+    width:230px;
+    height:190px;
+    background:white;
+    position:relative;
+    margin:10px;
+    color:black;
+    border-radius:10px;
+    box-shadow:0 0 20px gray;
+    padding:5px;
+}
+
+#news{
+    width:230px;
+    height:190px;
+    background:white;
+    position:relative;
+    margin:10px;
+    border-radius:10px;
+    box-shadow:0 0 20px gray;
+    padding:5px;
+}
+
+#content{
+    margin:10px;
+    width:650px;
+    height:400px;
+    position:relative;
+    text-align:justify;
+    background:white;
+    float:right;
+    border-radius:10px;
+    box-shadow:0 0 20px gray;
+    padding:5px;
+
+}
+
+footer{
+    width:935px;
+    height:35px;
+    line-height:35px;
+    text-align:center;
+    position:relative;
+    margin:0;
+    color:#555252;
+    background:#bec0c2;
+    border-radius:0 12px;
+    box-shadow:0 0 10px #555252;
+
+    
+}
