@@ -2,9 +2,14 @@
 
 body 
 {
-         font-family: Arial, Verdana,sans-serif;
-         font-size:14px;
+         font-family: Open Sans, sans-serif;
+         font-size:12px;
          overflow-y:scroll;
+}
+
+a {
+text-decoration:none;
+color:white;
 }
 
 #container{
@@ -13,103 +18,198 @@ body
     margin:auto;
 }
 
-#header{
+
+header{
     width:935px;
     height:60px;
     position:relative;
-    margin-bottom:10px;
-    margin-top:10px;
     font-weight:bold;
     letter-spacing:5px;
-    text-align:right;
+    transition:opacity .3s ease-in-out; /*şeffaflığa geçiş efekti*/
+    cursor:pointer;
+    margin:20px;
+    line-height:20px;
+    font-size:24px;
+    
 }
 
-#nav{
-    width:960px;
-    height:38px;
-    line-height:30px;
+    #header:hover 
+    {
+        opacity:.7; /*seffaflık %30 azalacak */
+        text-shadow:0 0 10px black;
+    }
+
+
+nav{
+    width:935px;
+    height:40px;
+    line-height:40px;
     text-align:center;
     position:relative;
-    color:white;
-    margin-bottom:10px;
+    margin:15px 0;
+    box-shadow:0 0 6px #555252;
+    border-radius:0 12px;
+    background:white;
+    cursor:pointer;
 
  
 }
 
 .nav_item{
     width:131px;
-    height:38px;
+    height:40px;
     position:relative;
     float:left;
-    border:2px solid #3399FF;
-    border-left:0;
-    background:#0066CC;
+    border-right:2px solid #bdbaba;
+    background:#7d7d7d;
     color:white;
+    transition:all .3s ease-in-out
+}
 
+.first {
+    border-radius:0 0 0 12px;
+    width:134px;
+}
+
+.last{
+    border-radius:0 12px 0 0;
+    border:0;
+    width:134px;
+}
+
+.nav_item:hover {
+    box-shadow:0 0 20px black inset;
 }
 
 #main{
-     width:935px;
-    height:420px;
-    position:relative;
+    width:935px;
+    height:440px;
     background:white;
+    padding:5px;
 }
 
 #left{
-    margin-top:5px;
+
     width:240px;
     height:400px;
     float:left; 
-    margin-right:5px;
+ 
 }
 
 #login {
-    width:240px;
-    height:200px;
+    width:230px;
+    height:190px;
     background:white;
     position:relative;
-    margin-bottom:5px;
-    margin-left:5px;
-    border:2px solid royalblue;
-    border-right:0px;
+    margin:10px;
     color:black;
+    border-radius:10px;
+    box-shadow:0 0 20px gray;
+    padding:5px;
+ 
 }
 
 #news{
-    width:240px;
-    height:200px;
+    width:230px;
+    height:190px;
     background:white;
     position:relative;
-    margin-left:5px;
-    border:2px solid royalblue;
-    border-left:0px;
+    margin:10px;
+    border-radius:10px;
+    box-shadow:0 0 20px gray;
+    padding:5px;
 }
 
 #content{
-    margin-top:5px;
-    margin-right:5px;
-    width:680px;
-    height:405px;
+    margin:10px;
+    width:650px;
+    height:400px;
     position:relative;
     text-align:justify;
     background:white;
     float:right;
-    border-top:2px solid royalblue;
-    border-bottom:2px solid royalblue;
-
+    border-radius:10px;
+    box-shadow:0 0 20px gray;
+    padding:5px;
 
 }
 
-#footer{
-   margin-top:10px;
-     width:935px;
-    height:40px;
-    line-height:40px;
+footer{
+    width:935px;
+    height:35px;
+    line-height:35px;
     text-align:center;
     position:relative;
-    color:white;
-    background:#0066CC;
-    font-family: Arial, Verdana,sans-serif;
-    font-size:12px;
+    margin:0;
+    color:#555252;
+    background:#bec0c2;
+    border-radius:0 12px;
+    box-shadow:0 0 10px #555252;
     
+}
+
+.divBaslik {
+    width:230px;
+    height:24px;
+    line-height:24px;
+    background:#8fadce;
+    color:white;
+    font-weight:bold;
+    font-size:14px;
+    border-radius:0 10px;
+    text-indent:8px;
+    box-shadow:0 0 16px white inset;
+}
+
+
+
+/*Kullanıcı Girisi*/
+.login_line {
+    width:210px;
+    height:36px;
+    line-height:36px;
+    position:relative;
+    margin-top:14px;
+}
+.login_col1 {
+    width:80px;
+    height:36px;
+    position:relative;
+    float:left;
+    font-weight:bold;
+}
+.login_col2 {
+    width:100px;
+    height:36px;
+    position:relative;
+    float:left;
+}
+.input {
+    width:140px;
+    height:24px;
+    position:relative;
+    float:left;
+    outline:none;
+    border-radius:6px;
+    font-size:12px;
+    text-indent:6px;
+    border-color:transparent;
+    box-shadow:0 0 2px 2px #7d7d7d;
+    transition:all .3s ease-in-out;
+}
+.Button {
+    width:80px;
+    height:28px;
+    line-height:24px;
+    position:relative;
+    float:left;
+    top:0;
+    right:0;
+    text-align:center;
+    font-size:14px;
+    font-weight:bold;
+    border-radius:6px;
+    background:#c7f0fb;
+    outline:none;
+    box-shadow:0 0 8px black inset;
 }

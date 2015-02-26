@@ -20,3 +20,9 @@ C:\Users\HereWeGo\documents\visual studio 2013\Projects\StajYonetim\StajYonetim\
 C:\Users\HereWeGo\documents\visual studio 2013\Projects\StajYonetim\StajYonetim\obj\Debug\StajYonetim.csprojResolveAssemblyReference.cache
 C:\Users\HereWeGo\documents\visual studio 2013\Projects\StajYonetim\StajYonetim\obj\Debug\StajYonetim.dll
 C:\Users\HereWeGo\documents\visual studio 2013\Projects\StajYonetim\StajYonetim\obj\Debug\StajYonetim.pdb
+C:\Users\HereWeGo\documents\visual studio 2013\Projects\StajYonetim\StajYonetim\bin\System.Web.Http.WebHost.dll
+C:\Users\HereWeGo\documents\visual studio 2013\Projects\StajYonetim\StajYonetim\bin\System.Web.Http.WebHost.xml
+C:\Users\HereWeGo\documents\visual studio 2013\Projects\StajYonetim\StajYonetim\bin\System.Net.Http.Formatting.dll
+C:\Users\HereWeGo\documents\visual studio 2013\Projects\StajYonetim\StajYonetim\bin\System.Web.Http.dll
+C:\Users\HereWeGo\documents\visual studio 2013\Projects\StajYonetim\StajYonetim\bin\System.Net.Http.Formatting.xml
+C:\Users\HereWeGo\documents\visual studio 2013\Projects\StajYonetim\StajYonetim\bin\System.Web.Http.xml
