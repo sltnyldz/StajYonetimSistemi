@@ -26,3 +26,45 @@ C:\Users\HereWeGo\documents\visual studio 2013\Projects\StajYonetim\StajYonetim\
 C:\Users\HereWeGo\documents\visual studio 2013\Projects\StajYonetim\StajYonetim\bin\System.Web.Http.dll
 C:\Users\HereWeGo\documents\visual studio 2013\Projects\StajYonetim\StajYonetim\bin\System.Net.Http.Formatting.xml
 C:\Users\HereWeGo\documents\visual studio 2013\Projects\StajYonetim\StajYonetim\bin\System.Web.Http.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\StajYonetim.dll.config
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\StajYonetim.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\StajYonetim.pdb
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Newtonsoft.Json.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Net.Http.Formatting.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Web.Helpers.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Web.Http.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Web.Http.WebHost.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Web.Mvc.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Web.Razor.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Web.WebPages.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Web.WebPages.Razor.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Newtonsoft.Json.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Net.Http.Formatting.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Web.Helpers.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Web.Http.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Web.Http.WebHost.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Web.Mvc.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Web.Razor.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Web.WebPages.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.Web.WebPages.Razor.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\obj\Debug\StajYonetim.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\obj\Debug\StajYonetim.pdb
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\EntityFramework.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\EntityFramework.SqlServer.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.IdentityModel.Tokens.ValidatingIssuerNameRegistry.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\EntityFramework.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\EntityFramework.SqlServer.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Antlr3.Runtime.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Antlr3.Runtime.pdb
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\obj\Debug\StajYonetim.csprojResolveAssemblyReference.cache
