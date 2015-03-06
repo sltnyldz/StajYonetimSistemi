@@ -185,6 +185,8 @@
     <None Include="Properties\PublishProfiles\estaj - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\estaj.pubxml" />
     <Content Include="Views\iletisim\Index.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_LoginPartial.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

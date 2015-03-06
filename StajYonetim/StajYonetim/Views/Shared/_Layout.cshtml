@@ -42,19 +42,11 @@
         </nav>
         <div id="main">
             <div id="left">
-                <form id="login" action="#" method="post">
-                    <div class="divBaslik">KULLANICI GİRİŞİ</div>
-                    <div class="login_line">
-                        <div class="login_col1"></div>
-                        <div class="login_col2">
-                           
-                            <input type="button" class="Button" id="gonder" name="Gonder" value="Giriş" onclick="location.href='@Url.Action("SignIn", "Account" )'"/>
-                        </div>
-                    </div>
-                </form>
+                @Html.Partial("_LoginPartial")
                 <div id="news"><div class="divBaslik">DUYURULAR</div></div>
             </div>
             <div id="content">
+                
                 @RenderBody()
             </div>
         </div>
