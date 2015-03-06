@@ -66,3 +66,15 @@ C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYoneti
 C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
 C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\obj\Debug\StajYonetim.csprojResolveAssemblyReference.cache
+C:\Users\HereWeGo\Documents\Visual Studio 2013\Projects\StajYonetim\StajYonetim\bin\EntityFramework.dll
+C:\Users\HereWeGo\Documents\Visual Studio 2013\Projects\StajYonetim\StajYonetim\bin\EntityFramework.SqlServer.dll
+C:\Users\HereWeGo\Documents\Visual Studio 2013\Projects\StajYonetim\StajYonetim\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HereWeGo\Documents\Visual Studio 2013\Projects\StajYonetim\StajYonetim\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HereWeGo\Documents\Visual Studio 2013\Projects\StajYonetim\StajYonetim\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\HereWeGo\Documents\Visual Studio 2013\Projects\StajYonetim\StajYonetim\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\HereWeGo\Documents\Visual Studio 2013\Projects\StajYonetim\StajYonetim\bin\System.IdentityModel.Tokens.ValidatingIssuerNameRegistry.dll
+C:\Users\HereWeGo\Documents\Visual Studio 2013\Projects\StajYonetim\StajYonetim\bin\EntityFramework.xml
+C:\Users\HereWeGo\Documents\Visual Studio 2013\Projects\StajYonetim\StajYonetim\bin\EntityFramework.SqlServer.xml
+C:\Users\HereWeGo\Documents\Visual Studio 2013\Projects\StajYonetim\StajYonetim\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HereWeGo\Documents\Visual Studio 2013\Projects\StajYonetim\StajYonetim\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HereWeGo\Documents\Visual Studio 2013\Projects\StajYonetim\StajYonetim\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml

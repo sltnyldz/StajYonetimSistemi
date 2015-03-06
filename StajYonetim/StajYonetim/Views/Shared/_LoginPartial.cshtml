@@ -1,23 +1,18 @@
 ﻿
-<form id="login" action="#" method="post">
+
     @if (Request.IsAuthenticated)
     {
         @model StajYonetim.Models.UserProfile
-        <div class="divBaslik">Kullanici Bilgileri</div>
+     
 
-        <div class="login_line">
+        
             @Model.DisplayName
 
             <br />
             @Html.ActionLink("Cikis yap", "SignOut", "Account")
-        </div>
+        
     }
     else
-    {
-
-        <div class="divBaslik">KULLANICI GİRİŞİ</div>
-        <div class="login_line">
-            <div class="login_col1"> <input type="button" class="Button" id="gonder" name="Gonder" value="Giriş" onclick="location.href='@Url.Action("SignIn", "Account" )'" /></div>
-        </div>
-    }
-</form>
+{   
+<input type="button" class="Button" id="gonder" name="Gonder" value="Kullanıcı Girişi" onclick="location.href='@Url.Action("SignIn", "Account" )'" />
+}

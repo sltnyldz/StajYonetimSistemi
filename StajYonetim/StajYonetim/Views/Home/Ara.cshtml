@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "e-staj | Arama Sonuçları";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Description = "Staj Yönetim Sistemi Arama Sonuçları";
+    ViewBag.Keywords = "estaj,staj,yonetim,sistemi,isletme,beceri,egitimi,arama,sonuçları";
+}
+
+<style>
+    #search_result {
+    padding:20px;
+    color:black;
+    border-radius:12px;
+    }
+</style>
+
+<h2>Arama Sonuçları</h2>
+<div id="search_result"></div>
+
+@section scripts{
+    
+<script src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+        google.load('search', '1');
+        function OnLoad() {
+            var s = window.location.search;
+            if (s.indexOf('search=') >= 0) {
+                s = s.substring(s.indexOf('search=') + 7);
+                if (s.indexOf('&') >= 0) {
+                    s = s.substring(0, s.indexOf('&'));
+                }
+                s = decodeURIComponent(s.replace('+', ' '));
+            }
+            else {
+                s = "";
+            }
+            var customSearchControl = new google.search.CustomSearchControl('003271280313729067560%3Attbqtcfm8m4');
+            customSearchControl.draw('search_result');
+            customSearchControl.execute(s);
+
+        }
+        google.setOnLoadCallback(OnLoad);
+        </script>
+}

@@ -15,10 +15,18 @@ namespace StajYonetim.Controllers
             {
                 string displayName = ClaimsPrincipal.Current.Claims.First(c => c.Type.ToString().Contains("displayname")).Value;
                 userProfile.DisplayName = displayName;
+
+                //GraphAPI'ye request
             }
 
             return View(userProfile);
 
         }
+
+        public ActionResult Ara()
+        {
+            return View();
+        }
+
     }
 }

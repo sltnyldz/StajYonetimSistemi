@@ -20,24 +20,46 @@ color:black;
 
 
 header{
-    width:935px;
-    height:60px;
-    position:relative;
-    font-weight:bold;
-    letter-spacing:5px;
-    transition:opacity .3s ease-in-out; /*şeffaflığa geçiş efekti*/
+    width:910px;
+    height:80px;
+    position:relative;   
     cursor:pointer;
-    margin:20px;
-    line-height:20px;
-    font-size:24px;
+    margin:10px;
+    padding:10px;
     
 }
 
-    #header:hover 
-    {
-        opacity:.7; /*seffaflık %30 azalacak */
-        text-shadow:0 0 10px black;
-    }
+#header_yazi{
+    width:700px;
+    height:80px;
+    font-weight:bold;
+    letter-spacing:2px;
+    line-height:30px;
+    font-size:20px;   
+    float:left;
+
+}
+
+.search {
+    width:200px;
+    height:30px;
+    position:relative;
+    padding:5px;
+    float:right;
+    
+}
+
+.login {
+    width:200px;
+    height:30px;
+    position:relative;
+    padding:5px;
+    float:right;
+    margin-bottom:5px;
+    
+ 
+}
+
 
 
 nav{
@@ -83,7 +105,7 @@ nav{
 
 #main{
     width:935px;
-    height:440px;
+    height:420px;
     background:white;
     padding:5px;
 }
@@ -93,25 +115,14 @@ nav{
     width:240px;
     height:400px;
     float:left; 
-
+    
+   
 }
 
-#login {
-    width:225px;
-    height:190px;
-    background:white;
-    position:relative;
-    margin:10px;
-    color:black;
-    border-radius:10px;
-    box-shadow:0 0 20px gray;
-    padding:5px;
- 
-}
 
-#news{
-    width:225px;
-    height:190px;
+.news{
+    width:220px;
+    height:180px;
     background:white;
     position:relative;
     margin:10px;
@@ -121,7 +132,7 @@ nav{
 }
 
 #content{
-    margin:10px;
+    
     width:650px;
     height:400px;
     position:relative;
@@ -185,24 +196,25 @@ footer{
     height:36px;
     position:relative;
     float:left;
-}
-.input {
-    width:130px;
-    height:20px;
+}*/
+.AraText {
+   width:150px;
+    height:25px;
+    line-height:20px;
     position:relative;
-    float:left;
+    margin:auto;
+    top:0;
+    right:0;
+    text-indent:4px;
+     font-size:12px;
+    font-weight:bold;
+    border-radius:0 10px;
+    box-shadow:0 0 16px white inset;
     outline:none;
-    border-radius:6px;
-    font-size:12px;
-    text-indent:6px;
-    border-color:transparent;
-    box-shadow:0 0 2px 2px #7d7d7d;
-    transition:all .3s ease-in-out;
 }
-    */
-.Button {
-    width:80px;
-    height:24px;
+.AraButton {
+     width:40px;
+    height:25px;
     line-height:20px;
     position:relative;
     margin:auto;
@@ -211,8 +223,24 @@ footer{
     text-align:center;
     font-size:12px;
     font-weight:bold;
-    border-radius:6px;
-    background:#c7f0fb;
-    outline:none;
-    box-shadow:0 0 8px black inset;
+    border-radius:0 10px;
+    box-shadow:0 0 16px white inset;
+   float:right;
+   outline:none;
+}
+    
+.Button {
+    width:150px;
+    height:25px;
+    line-height:20px;
+    position:relative;
+    margin:auto;
+    top:0;
+    right:0;
+    text-align:center;
+    font-size:12px;
+    font-weight:bold;
+    border-radius:0 10px;
+    box-shadow:0 0 16px white inset;
+   
 }

@@ -11,7 +11,18 @@
 </head>
 <body>
     <div id="container">
-<header>ALTAY MESLEKİ VE TEKNİK ANADOLU LİSESİ <p></p>STAJ YÖNETİM SİSTEMİ</header>
+<header>
+    
+    <div id="header_yazi">ALTAY MESLEKİ VE TEKNİK ANADOLU LİSESİ <p></p>STAJ YÖNETİM SİSTEMİ</div> 
+      <div class="login">@Html.Partial("_LoginPartial")</div>
+        
+    @using (Html.BeginForm("Ara","Home", FormMethod.Get))
+{
+        <div class="search">
+        <input type="text" class="AraText" name="Ara" /><input type="button" class="AraButton" value="Ara" />
+        </div>
+}        
+        </header>
       
         <nav>
             <a href="/">
@@ -40,17 +51,24 @@
                 </div>
             </a>
         </nav>
+
         <div id="main">
             <div id="left">
-                @Html.Partial("_LoginPartial")
-                <div id="news"><div class="divBaslik">DUYURULAR</div></div>
-            </div>
-            <div id="content">
+                <div class="news">
+                    <div class="divBaslik">DUYURULAR</div>
 
-@RenderBody()
+                </div>
+                <div class="news"><div class="divBaslik">DUYURULAR</div></div>
             </div>
-     
-<footer><small> &copy; Sultan YILDIZ DEMİR | Tüm hakkı saklıdır. </small></footer>
+
+            <div id="content">
+                @RenderBody()
+            </div>
+        </div>
+    <footer><small> &copy; Sultan YILDIZ DEMİR | Tüm hakkı saklıdır. </small></footer>
     </div>
+
+
+@RenderSection("scripts", required: false)        
 </body>
 </html>
