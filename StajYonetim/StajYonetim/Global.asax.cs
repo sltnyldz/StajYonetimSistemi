@@ -15,7 +15,7 @@ namespace StajYonetim
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();
-
+            IdentityConfig.ConfigureIdentity();
             WebApiConfig.Register(GlobalConfiguration.Configuration);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);

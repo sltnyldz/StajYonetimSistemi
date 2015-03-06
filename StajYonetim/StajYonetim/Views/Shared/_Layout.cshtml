@@ -28,7 +28,6 @@
             <div class="nav_item">
             <span>Firma Kayıt</span>
             </div>
-           
             <div class="nav_item">
             <span>Belgeler</span>
             </div>
@@ -38,19 +37,20 @@
             <a href="/iletisim/">
             <div class="nav_item last">
             <span>İletişim</span>
-            </div></a>
+                </div>
+            </a>
         </nav>
         <div id="main">
-            
+            <div id="left">
+                @Html.Partial("_LoginPartial")
+                <div id="news"><div class="divBaslik">DUYURULAR</div></div>
+            </div>
+            <div id="content">
 
 @RenderBody()
-
-
             </div>
      
 <footer><small> &copy; Sultan YILDIZ DEMİR | Tüm hakkı saklıdır. </small></footer>
     </div>
-
-       
 </body>
 </html>

@@ -22,3 +22,28 @@ C:\Users\HereWeGo\Documents\Visual Studio 2013\Projects\StajYonetim\StajYonetim.
 C:\Users\HereWeGo\Documents\Visual Studio 2013\Projects\StajYonetim\StajYonetim.Tests\obj\Debug\StajYonetim.Tests.csprojResolveAssemblyReference.cache
 C:\Users\HereWeGo\Documents\Visual Studio 2013\Projects\StajYonetim\StajYonetim.Tests\obj\Debug\StajYonetim.Tests.dll
 C:\Users\HereWeGo\Documents\Visual Studio 2013\Projects\StajYonetim\StajYonetim.Tests\obj\Debug\StajYonetim.Tests.pdb
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\StajYonetim.Tests.dll.config
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\StajYonetim.Tests.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\StajYonetim.Tests.pdb
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\StajYonetim.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\StajYonetim.pdb
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\obj\Debug\StajYonetim.Tests.csprojResolveAssemblyReference.cache
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\obj\Debug\StajYonetim.Tests.dll
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\obj\Debug\StajYonetim.Tests.pdb
+C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim.Tests\bin\Debug\System.IdentityModel.Tokens.ValidatingIssuerNameRegistry.dll
