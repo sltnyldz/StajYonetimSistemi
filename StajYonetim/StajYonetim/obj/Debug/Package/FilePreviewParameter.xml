@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="IIS Web Application Name" description="" value="estaj" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\HereWeGo\\documents\\visual\ studio\ 2013\\Projects\\StajYonetim\\StajYonetim\\obj\\Debug\\Package\\PackageTmp$" />
-    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\HereWeGo\\documents\\visual\ studio\ 2013\\Projects\\StajYonetim\\StajYonetim\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\HereWeGo\\Documents\\Visual\ Studio\ 2013\\Projects\\StajYonetim\\StajYonetim\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\HereWeGo\\Documents\\Visual\ Studio\ 2013\\Projects\\StajYonetim\\StajYonetim\\obj\\Debug\\Package\\PackageTmp$" />
   </parameter>
 </parameters>
