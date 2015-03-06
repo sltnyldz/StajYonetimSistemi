@@ -11,8 +11,8 @@
 </head>
 <body>
     <div id="container">
-<header>ALTAY MESLEKİ VE TEKNİK ANADOLU LİSESİ <p></p>STAJ YÖNETİM SİSTEMİ</header>
-      
+        <header>ALTAY MESLEKİ VE TEKNİK ANADOLU LİSESİ <p></p>STAJ YÖNETİM SİSTEMİ</header>
+
         <nav>
             <a href="/">
                 <div class="nav_item first">
@@ -20,58 +20,45 @@
                 </div>
             </a>
             <div class="nav_item">
-            <span>Okul Girişi</span>
+                <span>Okul Girişi</span>
             </div>
             <div class="nav_item">
-            <span>Öğrenci Girişi</span>
+                <span>Öğrenci Girişi</span>
             </div>
             <div class="nav_item">
-            <span>Öğretmen Girişi</span>
+                <span>Öğretmen Girişi</span>
             </div>
             <div class="nav_item">
-            <span>İşletme Girişi</span>
+                <span>İşletme Girişi</span>
             </div>
             <div class="nav_item">
-            <span>Belgeler</span>
+                <span>Belgeler</span>
             </div>
             <a href="/iletisim/">
-            <div class="nav_item last">
-            <span>İletişim</span>
-            </div></a>
+                <div class="nav_item last">
+                    <span>İletişim</span>
+                </div>
+            </a>
         </nav>
         <div id="main">
             <div id="left">
-                <form id="login" action="#" method="post"><div class="divBaslik">KULLANICI GİRİŞİ</div>
-                <div class="login_line">
-                    <div class="login_col1">Kullanıcı Adı:</div>
-                    <div class="login_col2"><input type="text" class="input" id="kul_adi" name="KulAdi" required /></div>
-                </div>
-                    <div class="login_line">
-                        <div class="login_col1">Şifre</div>
-                        <div class="login_col2"><input type="password" class="input" id="sifre" name="Sifre" required /></div>
-                    </div>
+                <form id="login" action="#" method="post">
+                    <div class="divBaslik">KULLANICI GİRİŞİ</div>
                     <div class="login_line">
                         <div class="login_col1"></div>
-                        <div class="login_col2"><input type="submit" class="Button" id="gonder" name="Gonder" value="Giriş"/></div>
+                        <div class="login_col2">
+                           
+                            <input type="button" class="Button" id="gonder" name="Gonder" value="Giriş" onclick="location.href='@Url.Action("SignIn", "Account" )'"/>
+                        </div>
                     </div>
                 </form>
-
-
-
-
-
                 <div id="news"><div class="divBaslik">DUYURULAR</div></div>
             </div>
             <div id="content">
-
-@RenderBody()
-
-
+                @RenderBody()
             </div>
         </div>
-<footer><small> &copy; Sultan YILDIZ DEMİR | Tüm hakkı saklıdır. </small></footer>
+        <footer><small> &copy; Sultan YILDIZ DEMİR | Tüm hakkı saklıdır. </small></footer>
     </div>
-
-       
 </body>
 </html>

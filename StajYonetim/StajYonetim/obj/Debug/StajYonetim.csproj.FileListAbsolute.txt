@@ -58,12 +58,10 @@ C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYoneti
 C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\System.IdentityModel.Tokens.ValidatingIssuerNameRegistry.dll
 C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\EntityFramework.xml
 C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\EntityFramework.SqlServer.xml
-C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Antlr3.Runtime.dll
 C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.AspNet.Identity.Core.dll
 C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
 C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
-C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Antlr3.Runtime.pdb
 C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.AspNet.Identity.Core.xml
 C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\tuba.kaya\Desktop\Docs\Github\StajYonetimSistemi\StajYonetim\StajYonetim\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
